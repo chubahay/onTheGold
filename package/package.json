@@ -1,0 +1,22 @@
+{
+  "name": "onthegold",
+  "version": "1.0.0",
+  "description": "a package that returns true if you are on the gold",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chubahay/onTheGold.git"
+  },
+  "author": "Charlie Rogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chubahay/onTheGold/issues"
+  },
+  "homepage": "https://github.com/chubahay/onTheGold#readme"
+}
